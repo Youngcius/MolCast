@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+
+title: [zhy]
+description: [this is a description]
+show_downloads: [true]
+
+github:
+  is_project_page: true
+
